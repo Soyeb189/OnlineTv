@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">OnlineTv</string>
+    <string name="news_channel">News</string>
+    <string name="entertainment">Entertainment</string>
+</resources>
